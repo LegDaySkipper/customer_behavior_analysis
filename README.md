@@ -159,6 +159,7 @@ customer-shopping-behavior-analysis/
 │
 ├── report/
 │   └── Customer_Shopping_Behavior_Analysis.pdf
+│   └── Customer-Shopping-Behavior-Analysis.pptx
 │
 ├── dashboard.png               # Dashboard screenshot
 └── README.md
