@@ -120,7 +120,7 @@ Wrote 10 structured queries to answer real business questions:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
+git clone https://github.com/LegDaySkipper/customer_behavior_analysis.git
 cd customer-shopping-behavior-analysis
 
 # 2. Install dependencies
