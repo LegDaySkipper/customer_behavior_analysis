@@ -87,8 +87,6 @@ Wrote 10 structured queries to answer real business questions:
 - 💰 Average Purchase Amount: **$59.76**
 - ⭐ Average Review Rating: **3.75 / 5**
 
----
-
 ## 📈 Key Results
 
 - **Clothing dominates** — drives 44.7% of total revenue ($104K out of $233K)
