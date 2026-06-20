@@ -148,16 +148,16 @@ jupyter notebook notebooks/analysis.ipynb
 customer-shopping-behavior-analysis/
 │
 ├── data/
-│   └── shopping_behavior_raw.csv
+│   └── customer_shopping_behavior.csv
 │
 ├── notebooks/
 │   └── analysis.ipynb          # Data cleaning & EDA
 │
 ├── sql/
-│   └── queries.sql             # All 10 business queries
+│   └── sql_queries.sql             # All 10 business queries
 │
 ├── dashboard/
-│   └── Customer_Behavior_Dashboard.pbix
+│   └── Dashboard.pbix
 │
 ├── report/
 │   └── Customer_Shopping_Behavior_Analysis.pdf
@@ -165,11 +165,3 @@ customer-shopping-behavior-analysis/
 ├── dashboard.png               # Dashboard screenshot
 └── README.md
 ```
-
----
-
-## 👤 Author
-
-**Shaurya**
-IIT (ISM) Dhanbad | Mining Engineering
-[Portfolio](https://shaurya25.carrd.co) · [LinkedIn](#) · [GitHub](#)
